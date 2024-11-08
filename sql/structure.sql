@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS `aaa_system` 
 DEFAULT CHARACTER SET utf8mb4 
 COLLATE utf8mb4_general_ci;
-
+ 
 USE `aaa_system`;
 
 -- Create users table
