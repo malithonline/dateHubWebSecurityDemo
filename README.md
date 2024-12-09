@@ -4,20 +4,15 @@ A secure PHP-based application demonstrating **Authentication, Authorization, an
 
 ## 📸 **Screenshots**  
 
-### 🔐 **Login Page**  
-![Login Page](./screenshots/login.png)  
+<div align="center">
+  <img src="./screenshots/login.png" alt="Login Page" width="30%"> 
+  <img src="./screenshots/register.png" alt="Register Page" width="30%"> 
+  <img src="./screenshots/dashbord.png" alt="Dashboard" width="30%">
+</div>
 
 ---
 
-### 📝 **Register Page**  
-![Register Page](./screenshots/register.png)  
-
----
-
-### 📊 **Dashboard**  
-![Dashboard](./screenshots/dashbord.png)  
-
----
+## 🎯 **Assessment Focus**  
 
 ## 🎯 **Assessment Focus**  
 
