@@ -1,9 +1,25 @@
-# 💻 DateHub - NIBM Software Security AAA Assessment
+A secure PHP-based application demonstrating **Authentication, Authorization, and Accounting (AAA)** capabilities without using any frameworks. Developed for the **NIBM Software Security Assessment 2024**.  
 
-A secure PHP-based application demonstrating Authentication, Authorization, and Accounting (AAA) capabilities without using any frameworks. Developed for NIBM Software Security Assessment 2024.
+---
 
-## 🎯 Assessment Focus
-Implementation of secure AAA functionality using raw PHP, demonstrating security best practices and secure coding principles.
+## 📸 **Screenshots**  
+
+### 🔐 **Login Page**  
+![Login Page](./screenshots/login.png)  
+
+---
+
+### 📝 **Register Page**  
+![Register Page](./screenshots/register.png)  
+
+---
+
+### 📊 **Dashboard**  
+![Dashboard](./screenshots/dashbord.png)  
+
+---
+
+## 🎯 **Assessment Focus**  
 
 ## ✨ Key Requirements Met
 * ⚡ Zero Framework Implementation
